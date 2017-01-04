@@ -1,0 +1,21 @@
+{
+    "name": "sayyid/yii2-alert",
+    "description": "Widget twitter bootstrap for Yii framework 2.0",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "M. Sayyid Imaduddin",
+            "email": "SayyidImaduddin99@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "sayyid\\alert\\": ""
+        }
+    }
+}
